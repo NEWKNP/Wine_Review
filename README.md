@@ -5,9 +5,12 @@ Wine review project developed by Machine Learning
 * Referrence **[Here](https://www.kaggle.com/zynicide/wine-reviews#winemag-data-130k-v2.csv)** 
 
 ## Methodology
+[coming soon]
 
 ## Implementation
 * Dataset **[Here](https://www.kaggle.com/zynicide/wine-reviews/downloads/wine-reviews.zip/4)**  
+### Explaination
+[coming soon]
 
 ## Github Guide For Data Analytics (Python/R)
 
